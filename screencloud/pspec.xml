@@ -44,7 +44,7 @@
     <History>
         <Update release="1">
             <Date>2017-07-04</Date>
-            <Version>1.3.0-1</Version>
+            <Version>1.3.0</Version>
             <Comment>Add screencloud to private repo</Comment>
             <Name>Deftware</Name>
             <Email>admin@deftware.me</Email>
