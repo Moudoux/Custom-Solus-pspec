@@ -10,7 +10,7 @@
         <Summary>Easy to use screenshot tool.</Summary>
         <Description>Easy to use screenshot tool</Description>
         <License>COPYRIGHT 2017 SCREENCLOUD.NET</License>
-        <Archive type="binary">https://build.opensuse.org/package/binary/home:olav-st/screencloud?arch=x86_64&filename=screencloud_1.3.0-1qt5_amd64.deb&repository=xUbuntu_16.04</Archive>
+        <Archive sha1sum="e4c90a6752dd69b3c3ffbd9ce73f26ffa8cb3671" type="binary">http://download.opensuse.org/repositories/home:/olav-st/xUbuntu_16.04/amd64/screencloud_1.3.0-1qt5_amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>qt5-x11extras-devel</Dependency>
