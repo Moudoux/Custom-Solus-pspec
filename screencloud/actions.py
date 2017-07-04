@@ -14,4 +14,3 @@ def setup():
 
 def install():
     pisitools.insinto("/", "usr")
-    pisitools.dosym("/usr/share/screencloud/screencloud.desktop", "/usr/share/applications/screencloud.desktop")
